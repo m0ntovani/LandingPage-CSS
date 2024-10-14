@@ -20,7 +20,7 @@ O design é responsivo 📱 e foi pensado para apresentar um curso ou produto de
 </ul>
 
 <h2>🖼️ Preview</h2>
-<p>Você pode conferir uma prévia da página aqui (dando erro no gh).</p>
+<p>Você pode conferir uma prévia da página aqui https://m0ntovani.github.io/LandingPage-CSS/.</p>
 
 <h2>🎯 Aprendizados</h2>
 <p>Utilização de CSS Flexbox para posicionamento dos elementos.</p>
